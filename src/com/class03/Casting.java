@@ -7,12 +7,15 @@ public class Casting {
 		int a=10;
 		int b=7;
 		
+		
+		
 		System.out.println (a>b);
 		
 	 	boolean result=a>=b;
 	 	boolean result1=a<=b;
 	 	System.out.println(result);
 	 	System.out.println(result1);
+	 	System.out.println("Katya");
 	}
 
 }
